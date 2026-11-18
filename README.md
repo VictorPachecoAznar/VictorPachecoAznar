@@ -11,8 +11,7 @@
 👋 Hi, I'm Víctor. I’m drawn to problems where sensor data becomes something you can actually interpret — usually in 3D, somewhere between vision, remote sensing, and ML.
 
 Right now I'm doing my MSc in Geomatics at ETH Zürich, focused on remote sensing and 3D vision.
-Before that I finished my BSc at UPC, where I graduated top of my cohort 🥇. What I enjoy most
-is research that doesn't stay stuck in a notebook — I enjoy working on research that doesn't just stay in a notebook, but becomes clean, reproducible code that others can pick up and use.
+Before that I finished my BSc at UPC, where I graduated top of my cohort 🥇. I enjoy working on research that doesn't just stay in a notebook, but becomes clean, reproducible code that others can pick up and use.
 
 🚀 My current interests lay in **computer vision · 3D perception · remote sensing · drones & autonomy.**
 
